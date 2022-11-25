@@ -15,5 +15,5 @@ Xinjiang
 ![Diff 1&2](./Screenshot%202022-11-25%20at%2009.18.57.png)
 ![Diff 1&2](./Screenshot%202022-11-25%20at%2009.19.16.png)
 ![Diff 1&2](./Screenshot%202022-11-25%20at%2009.19.28.png)
-![Diff 1&2](./Screenshot%202022-11-25%20at%2009.19.38.png)
+![Diff 1&2](./Screenshot%202022-11-25%20at%2009.29.56.png)
 
